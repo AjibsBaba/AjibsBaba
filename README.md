@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<a href="https://www.twitter.com/ajibs_baba">
-  <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twittter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/ajibsbaba/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
