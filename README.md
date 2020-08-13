@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Samuel 😉, a Software Engineer 👨💻 from Nigeria. I currently develop in Python 🐍. Currently, I'm working on an image Classifier aligorithm using [Tensorflow](https://www.tensorflow.org/). Beside's programming, I design UIs for Mobile Applications using [Figma](https://www.figma.com/)
+I'm Samuel 😉, a Software Engineer 👨💻 from Nigeria. I currently develop in Python 🐍. Currently, I'm working on an image Classifier aligorithm using [Tensorflow](https://www.tensorflow.org/). Beside's programming, I design UIs for Mobile Applications using [Figma](https://www.figma.com/)
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
