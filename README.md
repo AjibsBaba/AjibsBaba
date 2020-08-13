@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AjibsBaba/AjibsBaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Welcome to my Profile 👋
-
 <a href="https://www.twitter.com/ajibs_baba">
   <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twittter.svg" />
 </a>
