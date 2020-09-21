@@ -22,7 +22,6 @@ I'm Samuel 😉, a Software Engineer 👨💻 from Nigeria. I currently develop 
 - 🌱 I’m currently learning Machine Learning with Python
 - 🤔 My research interests are with Deep Learning and Reinforcement Learning.
 - 💼 I’m pursuing a Bachelors of Computer Science degree.
-- 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via samuelajibade22@gmail.com to reach me.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1OIjqR4Jcu6U1Cjoo8uccmyI9FK3SAfk3/view?usp=sharing) to get more info.
 
