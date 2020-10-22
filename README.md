@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I'm Samuel 😉, a Software Engineer 👨💻 from Nigeria. I currently develop in Python 🐍. Currently, I'm developing Deep Learning Models with the [Tensorflow](https://www.tensorflow.org/) Framework.
+I'm Samuel 😉, a Software Engineer 👨💻 from Nigeria.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
