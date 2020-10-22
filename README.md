@@ -13,17 +13,16 @@
 <br />
 <br />
 
-I'm Samuel 😉, a Software Engineer 👨💻 from Nigeria. I currently develop in Python 🐍. Currently, I'm Deep Learning Models with the [Tensorflow](https://www.tensorflow.org/) Framework.
+I'm Samuel 😉, a Software Engineer 👨💻 from Nigeria. I currently develop in Python 🐍. Currently, I'm developing Deep Learning Models with the [Tensorflow](https://www.tensorflow.org/) Framework.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
 - 🌱 I’m currently learning Machine Learning with Python
-- 🤔 My research interests are with Deep Learning and Reinforcement Learning.
 - 💼 I’m pursuing a Bachelors of Computer Science degree.
 - 📫 Please email via samuelajibade22@gmail.com to reach me.
-- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1OIjqR4Jcu6U1Cjoo8uccmyI9FK3SAfk3/view?usp=sharing) to get more info.
+
 
 ![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=AjibsBaba&show_icons=true&hide_border=true)
 
