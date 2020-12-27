@@ -13,15 +13,10 @@
 <br />
 <br />
 
-I'm Samuel 😉, a Software Engineer 💻 from Nigeria.
+I'm Samuel 😉, a Software Engineer 💻 based in Nigeria.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-**Current Status Quo**
-
-- 🌱 I’m currently learning Machine Learning with Python
-- 💼 I’m pursuing a Bachelors of Computer Science degree.
-- 📫 Please email via samuelajibade22@gmail.com to reach me.
 
 
 ![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=AjibsBaba&show_icons=true&hide_border=true)
