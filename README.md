@@ -15,7 +15,6 @@
 
 I'm Samuel 😉, a Software Engineer 💻 based in Nigeria.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 
 
