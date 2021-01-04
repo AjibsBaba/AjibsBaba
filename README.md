@@ -11,9 +11,6 @@
 <br />
 <br />
 
-I'm Samuel 😉, a Software Engineer 💻 based in Nigeria.
-
-
 
 
 ![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=AjibsBaba&show_icons=true&hide_border=true)
