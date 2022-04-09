@@ -1,7 +1,7 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/AjibsBaba)
+### Hi there 👋, I'm AjibsBaba ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Hi there,
+Mobile Engineer • Building Apps for the Android ecosystem. 
 
-I am passionate about building software that changes peoples lives User Interface and User Experience is key in developing any application. I currently work with Python, JavaScript and Kotlin. I am also one of the early adoptors of Jetpack Compose
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/AjibsBaba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='18'>](https://www.linkedin.com/in/ajibsbaba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='18'>](https://stackoverflow.com/users/11083176/ajibsbaba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://ajibsbaba.com)  
 
-You can find out more about me here [Samuel Ajibade's Portfolio.](https://ajibsbaba.com/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AjibsBaba&show_icons=true)  
