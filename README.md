@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AjibsBaba
 - 👀 I’m interested in Mobile Development, Deep Learning, Automated Systems
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently building business logics using Kotlin and Flutter
 - 💞️ I’m looking to collaborate on ...building mobile applications, deploying deep learning models in mobile apps
 - 📫 How to reach me ... twitter: @ajibs_baba
