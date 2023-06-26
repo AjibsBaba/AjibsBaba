@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AjibsBaba
-- 👀 I’m interested in Mobile Development, Deep Learning, Automated Systems
-- 🌱 I’m currently building business logics using Kotlin and Flutter
-- 💞️ I’m looking to collaborate on ...building mobile applications, deploying deep learning models in mobile apps
-- 📫 How to reach me ... twitter: @ajibs_baba
+Are you looking for looking for a developer with a design centric style?
+Maybe you have worked with one but you product is not gaining the projected number of users and positive reviews - Or you have a difficult time looking for talent that has genuine passion for this craft
+
+I am your guy
