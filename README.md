@@ -1,4 +1,1 @@
-Are you looking for looking for a developer with a design centric style?
-Maybe you have worked with one but you product is not gaining the projected number of users and positive reviews - Or you have a difficult time looking for talent that has genuine passion for this craft
-
-I am your guy
+I am a Product Centric Engineer, I offer a distinct perspective in crafting user-centric products with a keen eye for design, and I possess the valuable ability to write scalable & maintainable code, enabling the seamless integration of aesthetics & functionality.
