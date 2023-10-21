@@ -1,1 +1,3 @@
-I am a Product Centric Engineer, I offer a distinct perspective in crafting user-centric products with a keen eye for design, and I possess the valuable ability to write scalable & maintainable code, enabling the seamless integration of aesthetics & functionality.
+# Hey There 👋
+
+Passionate about Android Dev, Flutter & Vue
