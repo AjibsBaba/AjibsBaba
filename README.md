@@ -1,7 +1,7 @@
 # Hey There 👋
 
-I am Samuel, as Software Engineer with more than 2 years of experience creating digital experiences
-.
+I am a passionate Mobile Engineer with over 2 years of experience of delivering optimal mobile experiences to native and cross-platform applications in both development and visuals. I am always learning and I am currently focusing on Kotlin and the android ecosystem.
+
 ## What I'm currently learning 
 
 I am a passionate learner, I am currently focusing on Kotlin and the android ecosystem. I am also interested in exploring blockchain technologies
@@ -14,10 +14,6 @@ I am a Software Engineer with an expertise in:
 - Building and Integrating RESTful APIs
 - Firebase Integration
 - Working with Compose and Jetpack Libraries
-
-## Open Source Commitment
-
-TODO
 
 ## Contact Me
 
