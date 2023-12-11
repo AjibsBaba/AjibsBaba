@@ -1,6 +1,6 @@
 # Hey There 👋
 
-I am a passionate Mobile Engineer with over 2 years of experience of delivering optimal mobile experiences to native and cross-platform applications in both development and visuals.
+I am a passionate Software Engineer with over 2 years of experience of delivering optimal mobile experiences to native and cross-platform applications in both development and visuals.
 
 ## What I'm currently learning 
 
