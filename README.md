@@ -1,10 +1,10 @@
 # Hey There 👋
 
-I am a passionate Android Engineer with over 2 years of experience of delivering optimal mobile experiences to native and cross-platform applications in both development and visuals.
+I am a passionate Android Engineer with over 3 years of experience of delivering optimal mobile experiences to native and cross-platform applications in both development and visuals.
 
 ## What I'm currently learning 
 
-I am a passionate learner, I am currently focusing on Kotlin and the android ecosystem. I am also interested in exploring blockchain technologies
+I am a passionate learner, I am currently focusing on writing clean architectures with Kotlin and Java. I am also interested in exploring blockchain technologies
 
 ## My Technical Skills
 
