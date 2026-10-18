@@ -9,7 +9,7 @@ Most of my work lives in private company repositories, so the contribution graph
 - **[TRM](https://trm.com.ng)**, a multi-tenant platform for Nigerian universities to issue, deliver and verify transcripts while the registry keeps approval authority. I'm the sole engineer, working on a Go and PostgreSQL API and a Nuxt web app.
 - **Fragvest**, a property co-ownership platform. I lead a seven-person product and engineering team across our Flutter app, Next.js web apps and Laravel backend.
 - **NomaOS** for [Agrovesto](https://www.agrovesto.com), an agricultural finance platform. I built the Flutter mobile app from its first commit, with offline-first capture and sync for field agents on unreliable connections.
-- **[Ìgbádùn Weekly](https://www.igbadun.com.ng)**, events discovery and ticketing in Osun State, built with Joshua Babawale, who leads it. I supervise the technology.
+- **[Ìgbádùn Weekly](https://www.igbadun.com.ng)**, events discovery and ticketing in Osun State, led and built by Joshua Babawale. I supervise the technology.
 
 ## Writing
 
